@@ -4,10 +4,10 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Smart Micro:Bit": "github:joaquinjulca1234512/smart-microbit#f6018173c261354103670b0258bb6129c38808bd"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md"
     ],
